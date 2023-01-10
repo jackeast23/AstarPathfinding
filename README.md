@@ -2,7 +2,7 @@
 
 This is a visual implementation of the A* poathfinding algorithm that uses Python3 and pygame.
 
-A* is an extension of Dijkstra's algorithmwith some characteristics on breadth-first search. A* algorithm introduces a heuristic into a regular graph-searching algorithm, essentially planning ahead at each step so a more optimal decision is made.
+A* is an extension of Dijkstra's algorith with some characteristics on breadth-first search. A* algorithm introduces a heuristic into a regular graph-searching algorithm, essentially planning ahead at each step so a more optimal decision is made.
 
 Uses a function that adds the cost of reaching the crrent node and an estimated cost to the goal.
 
